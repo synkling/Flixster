@@ -52,7 +52,7 @@ When I was compiling and testing the video initially, I got a "Network not respo
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/pXxkXvD.gif" width="250px"><br>
+<img src="https://i.imgur.com/TaKnHap.gif" width="250px"><br>
 
 ### Notes
 The newest Android Studio, 4.1.2, enabled a new feature that allows you to use the emulator in the IDE. 
