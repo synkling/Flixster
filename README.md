@@ -22,7 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="https://i.imgur.com/L8FwVbG.gif" width="250px"><br>
+<img src="https://i.imgur.com/JBNRmTr.gif" width="250px"><br>
 
 ### Notes
 
@@ -52,7 +52,7 @@ When I was compiling and testing the video initially, I got a "Network not respo
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/HKNhzVa.gif" width="250px"><br>
+<img src="https://i.imgur.com/pXxkXvD.gif" width="250px"><br>
 
 ### Notes
 The newest Android Studio, 4.1.2, enabled a new feature that allows you to use the emulator in the IDE. 
